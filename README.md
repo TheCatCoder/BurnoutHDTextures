@@ -1,5 +1,5 @@
-# BurnoutHDTextures
-An HD Texture pack for Burnout. For use with the Dolphin Emulator
+# HD Texture Pack for Burnout
+An HD Texture pack for Burnout (GameCube Version). For use with the Dolphin Emulator
 
 To use, simply place the unzipped folder full of PNG files (named GBOE51) into the Dolphin Emulator\Load\Textures folder.
 
